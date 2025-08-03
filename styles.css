@@ -22,6 +22,11 @@
   width: 40px;
 }
 
+.image {
+  width: 300px;
+  height: auto;
+}
+
 .video{
   width: 560px;
   height: 315px;
